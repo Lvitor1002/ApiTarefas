@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HYzLsYGBZEUBNpSDkrTL6bVhOGwQ/82HFu4G7BfnZQ4=",
+  "Source": "ApiTarefas",
+  "BasePath": "_content/ApiTarefas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
