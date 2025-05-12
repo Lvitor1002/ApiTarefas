@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luiz\\Desktop\\c#\\Projetos C#\\SistemaTarefas\\ApiTarefas.csproj": {}
+    "C:\\Users\\Luiz\\Desktop\\Repositórios Locais\\PROJETOS\\ApiTarefas\\ApiTarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luiz\\Desktop\\c#\\Projetos C#\\SistemaTarefas\\ApiTarefas.csproj": {
+    "C:\\Users\\Luiz\\Desktop\\Repositórios Locais\\PROJETOS\\ApiTarefas\\ApiTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luiz\\Desktop\\c#\\Projetos C#\\SistemaTarefas\\ApiTarefas.csproj",
+        "projectUniqueName": "C:\\Users\\Luiz\\Desktop\\Repositórios Locais\\PROJETOS\\ApiTarefas\\ApiTarefas.csproj",
         "projectName": "ApiTarefas",
-        "projectPath": "C:\\Users\\Luiz\\Desktop\\c#\\Projetos C#\\SistemaTarefas\\ApiTarefas.csproj",
+        "projectPath": "C:\\Users\\Luiz\\Desktop\\Repositórios Locais\\PROJETOS\\ApiTarefas\\ApiTarefas.csproj",
         "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luiz\\Desktop\\c#\\Projetos C#\\SistemaTarefas\\obj\\",
+        "outputPath": "C:\\Users\\Luiz\\Desktop\\Repositórios Locais\\PROJETOS\\ApiTarefas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
