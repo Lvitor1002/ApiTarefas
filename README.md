@@ -1,4 +1,4 @@
-<h3>Esta Web API é uma aplicação ASP.NET Core que fornece um Back-End para um sistema de gerenciamento de tarefas</h3>
+<h3>Esta Web API é uma aplicação ASP.NET Core que fornece um Back-End para um sistema de gerenciamento de tarefas, sendo a relação das tabelas (1 -> *), ou seja, um para muitos, pois um usuário pode realizar muitas tarefas.</h3>
 <br>
 <p>
   -Utiliza o Entity Framework Core para acesso ao banco de dados SQL Server, configurando a string de conexão via appsettings.json.
